@@ -1,0 +1,23 @@
+info
+show
+add
+CANIA
+123
+124
+5000
+description doijdoivi
+50
+AIR
+да
+Билли
+90
+GREEN
+GREEN
+USA
+да
+23
+33
+Таганрог
+
+help
+show
